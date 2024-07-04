@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 """Module for to_str Function"""
-import math
 
 
 def to_str(n: float) -> str:
