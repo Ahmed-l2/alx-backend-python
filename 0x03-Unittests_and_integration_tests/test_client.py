@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
+"""Module for Unitttesting client.py"""
 import unittest
-from unittest.mock import patch, Mock, PropertyMock
+from unittest.mock import patch, PropertyMock
 from parameterized import parameterized
 from client import GithubOrgClient
 
